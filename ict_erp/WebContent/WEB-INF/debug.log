@@ -1,0 +1,174 @@
+[2018-09-03 13:01:09,285]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@4b12a709
+[2018-09-03 13:01:09,296]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:01:09,297] INFO (AuthFilter.java:36):/
+[2018-09-03 13:01:09,297] WARN (AuthFilter.java:37):/
+[2018-09-03 13:01:09,298]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:01:09,298]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:02:46,241]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@4294bdf8
+[2018-09-03 13:02:46,295]DEBUG (AuthFilter.java:35):/depart/departList
+[2018-09-03 13:02:46,296] INFO (AuthFilter.java:36):/depart/departList
+[2018-09-03 13:02:46,296] WARN (AuthFilter.java:37):/depart/departList
+[2018-09-03 13:02:46,296]ERROR (AuthFilter.java:38):/depart/departList
+[2018-09-03 13:02:46,298]FATAL (AuthFilter.java:39):/depart/departList
+[2018-09-03 13:02:47,434]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:02:47,434]DEBUG (AuthFilter.java:35):/depart/departList
+[2018-09-03 13:02:47,434] INFO (AuthFilter.java:36):/depart/departList
+[2018-09-03 13:02:47,435] WARN (AuthFilter.java:37):/depart/departList
+[2018-09-03 13:02:47,435]ERROR (AuthFilter.java:38):/depart/departList
+[2018-09-03 13:02:47,436]FATAL (AuthFilter.java:39):/depart/departList
+[2018-09-03 13:03:13,823]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:13,823]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:03:13,823] INFO (AuthFilter.java:36):/
+[2018-09-03 13:03:13,823] WARN (AuthFilter.java:37):/
+[2018-09-03 13:03:13,823]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:03:13,824]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:03:14,382]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:14,382]DEBUG (AuthFilter.java:35):/fu/upload
+[2018-09-03 13:03:14,382] INFO (AuthFilter.java:36):/fu/upload
+[2018-09-03 13:03:14,382] WARN (AuthFilter.java:37):/fu/upload
+[2018-09-03 13:03:14,382]ERROR (AuthFilter.java:38):/fu/upload
+[2018-09-03 13:03:14,382]FATAL (AuthFilter.java:39):/fu/upload
+[2018-09-03 13:03:15,005]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:15,006]DEBUG (AuthFilter.java:35):/vendor/common.js
+[2018-09-03 13:03:15,006] INFO (AuthFilter.java:36):/vendor/common.js
+[2018-09-03 13:03:15,006] WARN (AuthFilter.java:37):/vendor/common.js
+[2018-09-03 13:03:15,006]ERROR (AuthFilter.java:38):/vendor/common.js
+[2018-09-03 13:03:15,006]FATAL (AuthFilter.java:39):/vendor/common.js
+[2018-09-03 13:03:15,048]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:15,049]DEBUG (AuthFilter.java:35):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 13:03:15,049] INFO (AuthFilter.java:36):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 13:03:15,049] WARN (AuthFilter.java:37):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 13:03:15,049]ERROR (AuthFilter.java:38):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 13:03:15,049]FATAL (AuthFilter.java:39):/vendor/bootstrap/js/bootstrap.bundle.min.js
+[2018-09-03 13:03:15,066]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:15,066]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:15,066]DEBUG (AuthFilter.java:35):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 13:03:15,066]DEBUG (AuthFilter.java:35):/css/simple-sidebar.css
+[2018-09-03 13:03:15,067] INFO (AuthFilter.java:36):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 13:03:15,067] WARN (AuthFilter.java:37):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 13:03:15,067] INFO (AuthFilter.java:36):/css/simple-sidebar.css
+[2018-09-03 13:03:15,067]ERROR (AuthFilter.java:38):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 13:03:15,067] WARN (AuthFilter.java:37):/css/simple-sidebar.css
+[2018-09-03 13:03:15,067]ERROR (AuthFilter.java:38):/css/simple-sidebar.css
+[2018-09-03 13:03:15,068]FATAL (AuthFilter.java:39):/css/simple-sidebar.css
+[2018-09-03 13:03:15,067]FATAL (AuthFilter.java:39):/vendor/bootstrap/css/bootstrap.min.css
+[2018-09-03 13:03:15,073]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:15,073]DEBUG (AuthFilter.java:35):/css/common.css
+[2018-09-03 13:03:15,073] INFO (AuthFilter.java:36):/css/common.css
+[2018-09-03 13:03:15,073] WARN (AuthFilter.java:37):/css/common.css
+[2018-09-03 13:03:15,073]ERROR (AuthFilter.java:38):/css/common.css
+[2018-09-03 13:03:15,073]FATAL (AuthFilter.java:39):/css/common.css
+[2018-09-03 13:03:15,087]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:15,088]DEBUG (AuthFilter.java:35):/vendor/jquery/jquery.min.js
+[2018-09-03 13:03:15,088] INFO (AuthFilter.java:36):/vendor/jquery/jquery.min.js
+[2018-09-03 13:03:15,088] WARN (AuthFilter.java:37):/vendor/jquery/jquery.min.js
+[2018-09-03 13:03:15,088]ERROR (AuthFilter.java:38):/vendor/jquery/jquery.min.js
+[2018-09-03 13:03:15,088]FATAL (AuthFilter.java:39):/vendor/jquery/jquery.min.js
+[2018-09-03 13:03:42,709]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:42,709]DEBUG (AuthFilter.java:35):/fileUpload
+[2018-09-03 13:03:42,709] INFO (AuthFilter.java:36):/fileUpload
+[2018-09-03 13:03:42,710] WARN (AuthFilter.java:37):/fileUpload
+[2018-09-03 13:03:42,710]ERROR (AuthFilter.java:38):/fileUpload
+[2018-09-03 13:03:42,710]FATAL (AuthFilter.java:39):/fileUpload
+[2018-09-03 13:03:48,195]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@840e25b
+[2018-09-03 13:03:48,195]DEBUG (AuthFilter.java:35):/fu/fileUpload
+[2018-09-03 13:03:48,195] INFO (AuthFilter.java:36):/fu/fileUpload
+[2018-09-03 13:03:48,195] WARN (AuthFilter.java:37):/fu/fileUpload
+[2018-09-03 13:03:48,195]ERROR (AuthFilter.java:38):/fu/fileUpload
+[2018-09-03 13:03:48,196]FATAL (AuthFilter.java:39):/fu/fileUpload
+[2018-09-03 13:09:17,566]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@69414563
+[2018-09-03 13:09:17,581]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:17,581] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:17,581] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:17,582]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:17,584]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:09:35,219]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@60c9a076
+[2018-09-03 13:09:35,222]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@548505f4
+[2018-09-03 13:09:35,229]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:09:35,229]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:35,230] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:35,229] INFO (AuthFilter.java:36):/
+[2018-09-03 13:09:35,230] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:35,230]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:35,230]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:09:35,233] WARN (AuthFilter.java:37):/
+[2018-09-03 13:09:35,233]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:09:35,233]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:09:49,347]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@60c9a076
+[2018-09-03 13:09:49,347]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:49,347] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:49,348] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:49,349]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:49,349]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,121]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@60c9a076
+[2018-09-03 13:09:54,121]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,121] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,121] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,122]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,122]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,452]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@60c9a076
+[2018-09-03 13:09:54,452]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,452] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,452] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,452]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,452]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,684]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@60c9a076
+[2018-09-03 13:09:54,684]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,684] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,684] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,685]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,685]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,915]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@60c9a076
+[2018-09-03 13:09:54,916]DEBUG (AuthFilter.java:35):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,916] INFO (AuthFilter.java:36):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,916] WARN (AuthFilter.java:37):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,916]ERROR (AuthFilter.java:38):/fu/fileUpload.jsp
+[2018-09-03 13:09:54,916]FATAL (AuthFilter.java:39):/fu/fileUpload.jsp
+[2018-09-03 13:10:35,183]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@7e3bd26b
+[2018-09-03 13:10:35,202]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:10:35,202] INFO (AuthFilter.java:36):/
+[2018-09-03 13:10:35,203] WARN (AuthFilter.java:37):/
+[2018-09-03 13:10:35,203]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:10:35,203]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:20:20,979]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:20:20,980]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:20:20,980] INFO (AuthFilter.java:36):/
+[2018-09-03 13:20:20,980] WARN (AuthFilter.java:37):/
+[2018-09-03 13:20:20,981]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:20:20,981]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:20:26,644]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:20:26,645]DEBUG (AuthFilter.java:35):/test/memberList
+[2018-09-03 13:20:26,645] INFO (AuthFilter.java:36):/test/memberList
+[2018-09-03 13:20:26,645] WARN (AuthFilter.java:37):/test/memberList
+[2018-09-03 13:20:26,646]ERROR (AuthFilter.java:38):/test/memberList
+[2018-09-03 13:20:26,647]FATAL (AuthFilter.java:39):/test/memberList
+[2018-09-03 13:20:27,702]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:20:27,702]DEBUG (AuthFilter.java:35):/level/levelList
+[2018-09-03 13:20:27,702] INFO (AuthFilter.java:36):/level/levelList
+[2018-09-03 13:20:27,702] WARN (AuthFilter.java:37):/level/levelList
+[2018-09-03 13:20:27,702]ERROR (AuthFilter.java:38):/level/levelList
+[2018-09-03 13:20:27,702]FATAL (AuthFilter.java:39):/level/levelList
+[2018-09-03 13:20:28,309]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:20:28,309]DEBUG (AuthFilter.java:35):/depart/departList
+[2018-09-03 13:20:28,310] INFO (AuthFilter.java:36):/depart/departList
+[2018-09-03 13:20:28,310] WARN (AuthFilter.java:37):/depart/departList
+[2018-09-03 13:20:28,310]ERROR (AuthFilter.java:38):/depart/departList
+[2018-09-03 13:20:28,310]FATAL (AuthFilter.java:39):/depart/departList
+[2018-09-03 13:20:48,113]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:20:48,114]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:20:48,114] INFO (AuthFilter.java:36):/
+[2018-09-03 13:20:48,114] WARN (AuthFilter.java:37):/
+[2018-09-03 13:20:48,114]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:20:48,114]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:25:46,958]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:25:46,960]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:25:46,960] INFO (AuthFilter.java:36):/
+[2018-09-03 13:25:46,960] WARN (AuthFilter.java:37):/
+[2018-09-03 13:25:46,960]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:25:46,961]FATAL (AuthFilter.java:39):/
+[2018-09-03 13:34:49,353]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@32e3ca1c
+[2018-09-03 13:34:49,354]DEBUG (AuthFilter.java:35):/
+[2018-09-03 13:34:49,354] INFO (AuthFilter.java:36):/
+[2018-09-03 13:34:49,355] WARN (AuthFilter.java:37):/
+[2018-09-03 13:34:49,355]ERROR (AuthFilter.java:38):/
+[2018-09-03 13:34:49,355]FATAL (AuthFilter.java:39):/

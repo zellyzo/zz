@@ -1,0 +1,18 @@
+[2018-08-31 13:47:56,188]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@7bb7ba8d
+[2018-08-31 13:47:56,199]DEBUG (AuthFilter.java:35):/
+[2018-08-31 13:47:56,199] INFO (AuthFilter.java:36):/
+[2018-08-31 13:47:56,200] WARN (AuthFilter.java:37):/
+[2018-08-31 13:47:56,200]ERROR (AuthFilter.java:38):/
+[2018-08-31 13:47:56,200]FATAL (AuthFilter.java:39):/
+[2018-08-31 13:48:08,511]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@201b85ad
+[2018-08-31 13:48:08,512]DEBUG (AuthFilter.java:35):/depart/departList
+[2018-08-31 13:48:08,512] INFO (AuthFilter.java:36):/depart/departList
+[2018-08-31 13:48:08,512] WARN (AuthFilter.java:37):/depart/departList
+[2018-08-31 13:48:08,512]ERROR (AuthFilter.java:38):/depart/departList
+[2018-08-31 13:48:08,513]FATAL (AuthFilter.java:39):/depart/departList
+[2018-08-31 13:48:10,831]TRACE (AuthFilter.java:34):org.apache.catalina.session.StandardSessionFacade@201b85ad
+[2018-08-31 13:48:10,831]DEBUG (AuthFilter.java:35):/depart/departList
+[2018-08-31 13:48:10,831] INFO (AuthFilter.java:36):/depart/departList
+[2018-08-31 13:48:10,831] WARN (AuthFilter.java:37):/depart/departList
+[2018-08-31 13:48:10,833]ERROR (AuthFilter.java:38):/depart/departList
+[2018-08-31 13:48:10,833]FATAL (AuthFilter.java:39):/depart/departList

@@ -66,4 +66,10 @@ public class DepartServiceImpl implements DepartService {
 		return null;
 	}
 
+	@Override
+	public Object getDepartInfoNonePageList(Object object) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

@@ -8,8 +8,14 @@ import com.ict.erp.vo.DepartInfo;
 
 public interface DepartService {
 	public List<DepartInfo> getDepartInfoList(DepartInfo di) throws SQLException;
+
 	public DepartInfo getDepartInfo(int diNum) throws SQLException;
-	public Map<String,Object> insertDepartInfo(DepartInfo di)throws SQLException;
-	public Map<String,Object> updateDepartInfo(DepartInfo di)throws SQLException;
-	public Map<String,Object> deleteDepartInfo(DepartInfo di)throws SQLException;
+
+	public Map<String, Object> insertDepartInfo(DepartInfo di) throws SQLException;
+
+	public Map<String, Object> updateDepartInfo(DepartInfo di) throws SQLException;
+
+	public Map<String, Object> deleteDepartInfo(DepartInfo di) throws SQLException;
+
+	public Object getDepartInfoNonePageList(Object object);
 }
